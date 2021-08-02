@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+    font-family: 'Bebas Neue', cursive;
+}
+.header-bg{
+    background-color: #FFF9F4;
+}
+.banner-txt h1{
+     font-size: 5rem;
+}
+.buy-button{
+      background-color: #3D4FF3;
+}
+
+.txt-bg{
+    background-color: #FA804C;
+}
+.txt-clr{
+   color: #FA804C;
+}
+
+.shoes-bg{
+    background-color: #f1f1f1;
+}
+/* .card{
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+} */
+.sdw{
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+}
